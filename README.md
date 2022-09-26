@@ -1,8 +1,18 @@
 ### VA HRO DevSecOps - CI/CD Framework
 
 This framework comprises VA's high priority initiatives to improve veteran care services:
-* High Reliability Organization (HRO)
-* Scaled Agile Framework (SAFe)
+
+High Reliability Organization (HRO)
+* Test driven design
+* Unit Testing
+* Regression Testing
+
+
+Scaled Agile Framework (SAFe)
+* CI / CD
+* Github integration
+* Decentralized, Async Collaboration
+
 
 
 ### Reference
