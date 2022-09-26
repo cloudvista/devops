@@ -20,3 +20,6 @@ __Scaled Agile__
 * https://en.wikipedia.org/wiki/Continuous_deployment
 * https://en.wikipedia.org/wiki/Test-driven_development
 
+
+### Humor
+* http://www.lillianvan.com/linlinhwrites/agile-for-agencies
