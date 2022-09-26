@@ -1,4 +1,4 @@
-### High-Reliablility Agile DevSecOps - CI/CD Framework
+### Agile DevSecOps
 
 CI/CD framework that emphasizes reliability and speed innovation:
 
