@@ -2,13 +2,13 @@
 
 This framework comprises VA's high priority initiatives to improve veteran care services:
 
-High Reliability Organization (HRO)
+__High Reliability Organization (HRO)__
 * Test driven design
 * Unit Testing
 * Regression Testing
 
 
-Scaled Agile Framework (SAFe)
+__Scaled Agile Framework (SAFe)__
 * CI / CD
 * Github integration
 * Decentralized, Async Collaboration
