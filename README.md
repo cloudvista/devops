@@ -2,7 +2,7 @@
 
 CI/CD framework that emphasizes reliability and speed innovation:
 
-__High Reliability __
+__High Reliability__
 * Test driven design
 * Unit Testing
 * Regression Testing
