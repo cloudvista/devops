@@ -1,4 +1,4 @@
-## Scaled Agile DevSecOps
+## Agile DevSecOps
 
 * https://www.functionize.com/blog/agile-vs-ci-cd-vs-devops-everything-you-need-to-know
 * https://www.jetbrains.com/teamcity/ci-cd-guide/agile-continuous-integration
