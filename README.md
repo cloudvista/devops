@@ -1,6 +1,6 @@
 ### Agile DevSecOps Framework
 
-CI/CD framework to provide secure, safe, scalable continous deployment of Vista innovation
+Framework to provide safe, secure, scalable continous integration and deployment of Vista updates
 
 __High Reliability__
 * Test driven design
