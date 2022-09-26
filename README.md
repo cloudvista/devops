@@ -1,6 +1,6 @@
 ### Agile DevSecOps
 
-CI/CD framework that emphasizes reliability and speed innovation:
+CI/CD framework that emphasizes reliability, safety, and speed of innvoation
 
 __High Reliability__
 * Test driven design
