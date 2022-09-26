@@ -1,6 +1,6 @@
-### Agile DevSecOps
+### Agile DevSecOps Framework
 
-CI/CD framework that emphasizes reliability, safety, and speed of innvoation
+CI/CD framework to provide secure, safe, scalable continous deployment of Vista innovation
 
 __High Reliability__
 * Test driven design
