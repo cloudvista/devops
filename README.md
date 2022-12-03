@@ -1,13 +1,13 @@
-### Agile DevSecOps Framework
+### VistA DevSecOps
 
-Framework to provide safe, secure, scalable continous integration and deployment of Vista updates
+Framework to provide continous integration and deployment of Vista 
 
 __High Reliability__
 * Test driven design
 * Unit Testing
 * Regression Testing
 
-__Scaled Agile__
+__Agile__
 * CI / CD
 * Github integration
 * Decentralized, Async Collaboration
