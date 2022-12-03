@@ -1,6 +1,14 @@
 # Jordan VistA - DevOps
 
 
+### Jordan National VistA - DevOps
+WorldVistA Conference presentation - October 2022
+
+https://youtu.be/q_t_5AYfH6M
+
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+
+
 
 <img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/a.png" >
 <img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/b.png" >
