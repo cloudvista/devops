@@ -10,23 +10,23 @@ https://worldvista.org/Conferences/40th_VistA_Community_Meeting
 
 
 ## DevOps: Slides
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/a.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/b.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/c.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/d.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/e.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/f.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/g.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/h.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/i.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/j.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/k.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/l.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/m.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/n.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/o.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/p.png" >
-<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/jordan/images/q.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/a.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/b.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/c.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/d.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/e.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/f.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/g.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/h.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/i.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/j.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/k.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/l.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/m.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/n.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/o.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/p.png" >
+<img  width="800"  src="https://github.com/cloudvista/devops/blob/main/images/q.png" >
 
 
 
