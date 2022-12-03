@@ -1,4 +1,4 @@
-### VistA DevSecOps
+### VistA DevOps
 
 Framework to provide continous integration and deployment of Vista 
 
