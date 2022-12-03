@@ -6,7 +6,7 @@ WorldVistA Conference presentation - October 2022
 
 https://youtu.be/q_t_5AYfH6M
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/q_t_5AYfH6M/0.jpg)](https://www.youtube.com/watch?v=q_t_5AYfH6M)
 
 
 
