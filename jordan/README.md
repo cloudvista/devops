@@ -5,7 +5,8 @@ https://worldvista.org/Conferences/40th_VistA_Community_Meeting
 
 
 ## DevOps: Presentation
-[![Alt text](https://img.youtube.com/vi/q_t_5AYfH6M/0.jpg)](https://www.youtube.com/watch?v=q_t_5AYfH6M)
+(click on image to start video)
+[![devops](https://img.youtube.com/vi/q_t_5AYfH6M/0.jpg)](https://www.youtube.com/watch?v=q_t_5AYfH6M)
 
 
 ## DevOps: Slides
