@@ -1,7 +1,10 @@
 # Jordan VistA - DevOps
-WorldVistA Conference presentation - October 2022
 
-## Video Presentation
+WorldVistA Conference - October 2022  
+https://worldvista.org/Conferences/40th_VistA_Community_Meeting
+
+
+## DevOps Presentation
 [![Alt text](https://img.youtube.com/vi/q_t_5AYfH6M/0.jpg)](https://www.youtube.com/watch?v=q_t_5AYfH6M)
 
 
